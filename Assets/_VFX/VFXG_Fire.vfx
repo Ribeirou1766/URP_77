@@ -2594,7 +2594,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.0,"g":2.1890509128570558,"b":2.6701574325561525,"a":1.0}'
+      m_SerializableObject: '{"r":0.0,"g":4.912495136260986,"b":5.992156505584717,"a":1.0}'
     m_Space: -1
   m_Property:
     name: _Flame_Color
