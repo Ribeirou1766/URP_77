@@ -51,8 +51,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Animation_slider: 1
-    - _Fade_Bottom_to_Top: 0.338
-    - _Fade_Top_to_Bottom: 0.841
+    - _Fade_Bottom_to_Top: 1
+    - _Fade_Top_to_Bottom: 0
     - _Float: 0
     - _Float_second: 0
     - _QueueControl: 0

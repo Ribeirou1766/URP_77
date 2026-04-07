@@ -54,7 +54,7 @@ Material:
     - _Smoothness: 0
     - _Tile: 1
     m_Colors:
-    - _10_Meter_Color: {r: 0.7892338, g: 1, b: 0, a: 1}
+    - _10_Meter_Color: {r: 1, g: 1, b: 1, a: 1}
     - _10_Meter_Grid_Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Color_Tint: {r: 1, g: 1, b: 1, a: 1}
     - _Emission: {r: 0, g: 0, b: 0, a: 1}
