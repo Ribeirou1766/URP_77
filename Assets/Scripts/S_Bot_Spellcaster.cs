@@ -41,7 +41,7 @@ public class S_Bot_Spellcaster : MonoBehaviour
     {
 
         _currentBullet.transform.rotation = transform.rotation;
-        _currentBullet.GetComponent<S_SpellBullet>().ShootBullet(Vector3.forward);
+        _currentBullet.GetComponent<S_SpellBullet>().ShootBullet();
         _currentBullet = null;
     }
 }
