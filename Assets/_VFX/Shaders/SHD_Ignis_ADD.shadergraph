@@ -1782,7 +1782,7 @@
     "m_ObjectId": "0e8aaf5717854150af4255c8cb5c06b0",
     "m_Title": "Noise Mask (Top to Bottom)",
     "m_Position": {
-        "x": -601.999755859375,
+        "x": -602.0,
         "y": -692.0
     }
 }
@@ -2001,7 +2001,7 @@
     "m_Title": "Shape Mask + SmoothStep + Heat Distortion",
     "m_Position": {
         "x": 4766.0,
-        "y": 330.9999694824219
+        "y": 331.0
     }
 }
 
@@ -2539,8 +2539,8 @@
     "m_ObjectId": "2d2f157d09d44dbb8880133ef7f3a946",
     "m_Title": "Noise Mask",
     "m_Position": {
-        "x": -1225.999755859375,
-        "y": 615.9999389648438
+        "x": -1226.0,
+        "y": 616.0
     }
 }
 
@@ -3329,8 +3329,8 @@
     "m_ObjectId": "44b2439fdbc8424c8760a1c73ed55a0e",
     "m_Title": "SmoothStep Control (Bottom to Top)",
     "m_Position": {
-        "x": 60.000244140625,
-        "y": 430.9999694824219
+        "x": 60.0,
+        "y": 431.0
     }
 }
 
@@ -3687,7 +3687,7 @@
     "m_ObjectId": "4e8c5f48d20b4b0ba253ea67ad81523b",
     "m_Title": "Noise Sample",
     "m_Position": {
-        "x": -1622.999755859375,
+        "x": -1623.0,
         "y": -230.0
     }
 }
@@ -5575,8 +5575,8 @@
     "m_ObjectId": "914bfb6718054484bdc59ef51fff591e",
     "m_Title": "SmoothStep Control (Top to Bottom)",
     "m_Position": {
-        "x": 358.000244140625,
-        "y": -1012.9998779296875
+        "x": 358.0,
+        "y": -1013.0
     }
 }
 
@@ -5769,7 +5769,7 @@
     "m_Title": "SmoothStep Masks Merge",
     "m_Position": {
         "x": 1845.0,
-        "y": 711.9999389648438
+        "y": 712.0
     }
 }
 
@@ -6349,7 +6349,7 @@
     "m_Title": "Shape Mask",
     "m_Position": {
         "x": 4286.0,
-        "y": 273.9999694824219
+        "y": 274.0
     }
 }
 
@@ -6528,8 +6528,8 @@
     "m_ObjectId": "ba4bf5b6b14546588dd2449fa036fe3d",
     "m_Title": "Texture UV Coord",
     "m_Position": {
-        "x": -1913.999755859375,
-        "y": 428.9999694824219
+        "x": -1914.0,
+        "y": 429.0
     }
 }
 
