@@ -1187,7 +1187,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: aac76bea8efd6ce4bad8437e352e1b15, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: ab675661eb37beb43b7f09ac99da3d17, type: 2}
+      objectReference: {fileID: 2100000, guid: c35b1d876ab25754fa4603a62cac406c, type: 2}
     - target: {fileID: 919132149155446097, guid: aac76bea8efd6ce4bad8437e352e1b15, type: 3}
       propertyPath: m_Name
       value: MDL_Spiral_01
@@ -1839,6 +1839,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 18.492022
       objectReference: {fileID: 0}
+    - target: {fileID: 1445967798225866946, guid: d929aa2d16ea59d4e99ddbf11a6c2679, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a95b934f95d7366418c1cbc0cd7ffd93, type: 2}
     - target: {fileID: 1567980997593912797, guid: d929aa2d16ea59d4e99ddbf11a6c2679, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -9.570317

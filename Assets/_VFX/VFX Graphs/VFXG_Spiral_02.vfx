@@ -16,9 +16,9 @@ MonoBehaviour:
   - title: Spiral 01
     position:
       serializedVersion: 2
-      x: 268
+      x: 273
       y: -1923
-      width: 1238
+      width: 1233
       height: 2874
     contents:
     - model: {fileID: 8926484042661614608}
@@ -200,9 +200,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 268
+    x: 273
     y: -2180
-    width: 6623
+    width: 6618
     height: 3516
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -665,7 +665,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614956}
-  m_UIPosition: {x: 1043, y: 62}
+  m_UIPosition: {x: 1003, y: 58}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -2982,7 +2982,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 293, y: 342}
+  m_UIPosition: {x: 305, y: 351}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -3177,7 +3177,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 307, y: 499}
+  m_UIPosition: {x: 298, y: 446}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -14847,7 +14847,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: True
+      m_SerializableObject: False
     m_Space: -1
   m_Property:
     name: _vfx_enabled
