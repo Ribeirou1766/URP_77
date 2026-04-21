@@ -810,15 +810,15 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 1303.9998779296875,
-            "y": -15.00000286102295
+            "x": 1819.0,
+            "y": 9.000007629394532
         },
         "m_Blocks": []
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 1311.0,
-            "y": 245.99998474121095
+            "x": 1826.0,
+            "y": 270.0
         },
         "m_Blocks": [
             {
@@ -1008,7 +1008,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "04400f40e574488c8bdf99957efee110",
     "m_Id": 0,
-    "m_DisplayName": "B",
+    "m_DisplayName": "Horizontal Edges",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1812,10 +1812,10 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "B",
+    "m_Name": "Horizontal Edges",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "B",
-    "m_DefaultReferenceName": "_B",
+    "m_RefNameGeneratedByDisplayName": "Horizontal Edges",
+    "m_DefaultReferenceName": "_Horizontal_Edges",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1829,7 +1829,7 @@
     "m_customAttributes": [],
     "m_Value": {
         "x": 0.0,
-        "y": -0.019999999552965165,
+        "y": -0.029999999329447748,
         "z": 0.0,
         "w": 0.0
     }
@@ -2082,7 +2082,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "3367b016b2fe45ed8f2a871da2214fbf",
     "m_Id": 0,
-    "m_DisplayName": "A",
+    "m_DisplayName": "Vertical Edges",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2423,10 +2423,10 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "A",
+    "m_Name": "Vertical Edges",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "A",
-    "m_DefaultReferenceName": "_A",
+    "m_RefNameGeneratedByDisplayName": "Vertical Edges",
+    "m_DefaultReferenceName": "_Vertical_Edges",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2439,7 +2439,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "x": -0.009999999776482582,
+        "x": 0.029999999329447748,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
