@@ -2351,26 +2351,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2201147139531580020, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
-      propertyPath: m_CastShadows
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4655312365744103647, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
-      propertyPath: m_PropertySheet.m_Bool.m_Array.Array.data[1].m_Value
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4655312365744103647, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
-      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[10].m_Value
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 4655312365744103647, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
-      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[10].m_Overridden
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4655312365744103647, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
-      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[11].m_Overridden
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8829747225277476804, guid: 0a2e5319031ad8d40be32c5893ec0fa4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
